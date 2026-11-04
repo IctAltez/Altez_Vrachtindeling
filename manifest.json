@@ -1,0 +1,8 @@
+{
+  "title": "ALTEZ Vrachtkleuren A3",
+  "description": "Visualiseer PDF-vrachtlijsten op geladen IFC-modellen met een kleurlegenda en druk een A3-overzicht af.",
+  "url": "https://ictaltez.github.io/ALTEZ_Vrachtplanner/index.html",
+  "icon": "https://ictaltez.github.io/ALTEZ_Vrachtplanner/icon.png",
+  "enabled": true,
+  "extensionType": ["3dviewer"]
+}
