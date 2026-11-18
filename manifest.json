@@ -1,8 +1,8 @@
 {
   "title": "ALTEZ Vrachtindeling",
   "description": "Koppel PDF-vrachtlijsten aan IFC-betonwanden, kleur per vracht en exporteer een A3-overzicht met legenda.",
-  "url": "https://ictaltez.github.io/Altez_Vrachtindeling/index.html",
-  "icon": "https://ictaltez.github.io/Altez_Vrachtindeling/icon.png",
+  "url": "https://ictaltez.github.io/VRA/index.html",
+  "icon": "https://ictaltez.github.io/VRA/icon.png",
   "enabled": true,
   "extensionType": ["3dviewer"]
 }
